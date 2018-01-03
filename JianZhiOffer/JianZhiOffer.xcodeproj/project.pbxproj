@@ -19,6 +19,7 @@
 		0401F7721FFCA26000AF0C54 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0401F6E01FFC9E6C00AF0C54 /* main.c */; };
 		0401F77C1FFCA27000AF0C54 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0401F6E61FFC9E6C00AF0C54 /* main.c */; };
 		0401F7861FFCA28500AF0C54 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0401F6DA1FFC9E6C00AF0C54 /* main.c */; };
+		0401F7901FFCA4EF00AF0C54 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 0401F6EA1FFC9E6D00AF0C54 /* main.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -718,6 +719,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0401F7901FFCA4EF00AF0C54 /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
